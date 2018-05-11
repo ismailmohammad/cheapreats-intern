@@ -1,0 +1,23 @@
+.cheapreats-card {
+    border-radius: 34pt;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.2);
+    height: inherit;
+    width: inherit;
+    overflow: hidden;
+    background-color: white;
+}
+.cheapreats-card-content {
+    display:inline-block;
+    margin: 26pt;
+}
+.cheapreats-card-heading {
+    font-weight: bold;
+    font-size: 21pt;
+    margin: 0;
+}
+.cheapreats-card-description {
+    font-size: 14pt;
+    font-weight: bold;
+    color: #b7bfbe;
+    margin: 0;
+}

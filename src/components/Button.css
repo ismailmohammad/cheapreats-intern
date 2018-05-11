@@ -1,0 +1,22 @@
+.cheapreats-button {
+    background-color: #ED242A;
+    color: white;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    padding: 0 2rem;
+    vertical-align: middle;
+    line-height: 36px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    margin-top: 20pt;
+    -webkit-transition: background-color 0.5s ease;
+    transition: background-color 0.5s ease;
+}
+.cheapreats-button:hover {
+    background-color: #F3777E;
+    -webkit-transition: background-color 0.5s ease;
+    transition: background-color 0.5s ease;
+}

@@ -1,0 +1,26 @@
+.dynamiclist-container {
+    height: inherit;
+    width: inherit;
+}
+
+table {
+    margin-top: 3pt;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    text-align: center;
+    padding-left: 25pt;
+    padding-right: 25pt;
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+}
+
+th {
+    background-color: #F3777E;
+}
+
+tr:not(:first-child):hover {
+    background-color: #dddddd;
+}
